@@ -8,166 +8,143 @@
 
 ---
 
-## 🚀 About Me
+<div align="center">
+  <h2><font face="Segoe UI, -apple-system, sans-serif" size="5" color="#38bdf8">🚀 About Me</font></h2>
+  
+  <p>
+    <font face="Segoe UI, -apple-system, sans-serif" size="4" color="#e2e8f0">
+      I am a <strong>Computer Science Engineering</strong> student and software engineer specializing in building high-performance backend systems and full-stack applications. With a strong foundation in algorithm design and problem-solving, I design and implement scalable developer tools, intelligent productivity platforms, and IoT-cloud integrations.
+    </font>
+  </p>
+  
+  <p>
+    <font face="Segoe UI, -apple-system, sans-serif" size="3.5" color="#94a3b8">
+      I am passionate about blending robust software architecture with modern AI capabilities to solve complex real-world problems. My engineering approach focuses on clean code, reliability, system optimization, and developer experience.
+    </font>
+  </p>
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <p>
-        I am a <b>Computer Science Engineering</b> student and software engineer specializing in building high-performance backend systems and full-stack applications. With a strong foundation in algorithm design and problem-solving, I design and implement scalable developer tools, intelligent productivity platforms, and IoT-cloud integrations.
-      </p>
-      <p>
-        I am passionate about blending robust software architecture with modern AI capabilities to solve complex real-world problems. My engineering approach focuses on clean code, reliability, system optimization, and developer experience.
-      </p>
-      <ul>
-        <li>🎓 Pursuing Computer Science and Engineering</li>
-        <li>⚙️ Strong backend mindset: API Design, System Architecture, & Cloud Technologies</li>
-        <li>🏆 Completed the <b>100 Days LeetCode Challenge</b> to strengthen DSA consistency</li>
-        <li>⚡ Active explorer of Distributed Systems, DevOps, and IoT-cloud ecosystems</li>
-      </ul>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" style="border-radius: 10px; max-width: 280px;" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+  <br>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0,0,0,0.5);" alt="Coding Animation" />
+  <br>
+</div>
+
+### ⚡ Highlights & Core Mindset
+- 🎓 **Academic Path**: Pursuing Computer Science and Engineering.
+- ⚙️ **Backend & Cloud**: Strong mindset for API Design, Database Design, & Distributed Systems.
+- 🏆 **Consistency**: Completed the **100 Days LeetCode Challenge** to strengthen algorithmic thinking and DSA.
+- 🤖 **AI & IoT Integration**: Passionate about embedding machine learning workflows into software and hardware systems.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack & Tooling
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>💻 Languages</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts&theme=dark" alt="Languages" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🎨 Frontend Development</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>⚙️ Backend Engineering</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask&theme=dark" alt="Backend" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🗄️ Databases & Storage</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,sqlite&theme=dark" alt="Databases" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🧠 Machine Learning & AI</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,opencv&theme=dark" alt="AI / ML" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>☁️ Cloud & DevOps</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel&theme=dark" alt="Cloud & DevOps" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🔧 Tools & Platforms</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,idea&theme=dark" alt="Tools" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🔌 IoT & Embedded Systems</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="IoT" /></a>
-      <br>
-      <code>ESP32</code> • <code>Sensor Integration</code> • <code>Embedded Systems</code> • <code>Render</code>
-    </td>
-  </tr>
-</table>
+### 💻 Core Languages
+![Languages](https://skillicons.dev/icons?i=java,py,c,cpp,js,ts&theme=dark)
+
+### 🎨 Frontend Engineering
+![Frontend Development](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark)
+
+### ⚙️ Backend & API Design
+![Backend Engineering](https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask&theme=dark)
+
+### 🗄️ Databases & Storage Systems
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,sqlite&theme=dark)
+
+### 🧠 Artificial Intelligence & Machine Learning
+![AI / ML](https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,opencv&theme=dark)
+
+### ☁️ Cloud & DevOps
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,docker,githubactions,vercel&theme=dark)
+
+### 🔧 Developer Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,idea&theme=dark)
+
+### 🔌 IoT & Embedded Engineering
+![Embedded Systems](https://skillicons.dev/icons?i=arduino&theme=dark)  
+> **ESP32** • **Sensor Integration** • **Embedded Systems** • **Render**
 
 ---
 
 ## 📂 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/DineshMoorthy007/AI-Enhanced-Documentation-Generator">AI-Enhanced Doc Gen</a></h3>
-      <p>An intelligent developer tool that automatically analyzes codebases, generates comprehensive READMEs, and produces structured technical documentation using LLMs and GitHub APIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/AI_Models-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Models" />
-        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/DineshMoorthy007/quick-note-polyglot">Quick Note Polyglot</a></h3>
-      <p>A polyglot backend engineering project demonstrating high-throughput API designs, robust authentication, and database schemas implemented across multiple backend runtimes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=api&logoColor=white" alt="REST APIs" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/DineshMoorthy007/AcadIntel">AcadIntel</a></h3>
-      <p>An intelligent academic productivity platform that automates schedules, coordinates collaborative student spaces, and streamlines task organization using modern software engineering patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 IoT & Healthcare Systems</h3>
-      <p>An IoT-enabled health monitoring infrastructure integrating sensor networks with cloud databases (Firebase) and embedded microcontrollers (ESP32) for real-time diagnostic reporting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Embedded C" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 🤖 [AI-Enhanced Documentation Generator](https://github.com/DineshMoorthy007/AI-Enhanced-Documentation-Generator)
+> **AI-powered developer tool that analyzes codebases and generates structured documentation automatically.**
+>
+> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![AI Models](https://img.shields.io/badge/AI_Models-412991?style=flat-square&logo=openai&logoColor=white) ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
+>
+> - Automatically maps repository structure and files.
+> - Uses state-of-the-art LLMs to generate high-quality READMEs and code explanations.
+> - Integrates with the GitHub API for seamless documentation workflow automation.
+
+### ⚡ [Quick Note Polyglot Backend](https://github.com/DineshMoorthy007/quick-note-polyglot)
+> **High-performance polyglot backend showing scalable API design across multiple technology stacks.**
+>
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=api&logoColor=white)
+>
+> - Implemented in Go, Spring Boot, and Node.js to compare performance and design patterns.
+> - Designed high-throughput REST APIs with secure authentication and optimized database schemas.
+> - Decoupled client architecture supporting diverse backend runtime integrations.
+
+### 🎓 [AcadIntel](https://github.com/DineshMoorthy007/AcadIntel)
+> **Intelligent academic productivity and workspace platform for modern student workflows.**
+>
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+>
+> - Streamlines student schedules, task assignment, and document collaboration.
+> - Engineered with safe concurrent data operations and real-time interface updates.
+> - Implements academic data structures and modern UI layouts.
+
+### 🏥 IoT & Healthcare Systems
+> **Smart health and environmental logging systems utilizing microcontrollers and cloud sync.**
+>
+> ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+>
+> - Integrates biological and environmental sensors with ESP32 microcontrollers.
+> - Transmits real-time diagnostic logs to Firebase cloud databases.
+> - Features low-latency alerts and energy-efficient deep sleep configuration.
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DineshMoorthy007/DineshMoorthy007/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <a href="https://github.com/DineshMoorthy007">
+    <img src="https://github-readme-stats.vercel.app/api?username=DineshMoorthy007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="Dinesh's GitHub Stats" />
+  </a>
+  <a href="https://github.com/DineshMoorthy007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshMoorthy007&theme=tokyonight&hide_border=true" height="195" alt="Dinesh's GitHub Streak" />
+  </a>
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DineshMoorthy007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshMoorthy007&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshMoorthy007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshMoorthy007&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">🏆 GitHub Achievements & Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DineshMoorthy007&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <a href="https://github.com/DineshMoorthy007">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshMoorthy007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" alt="Dinesh's Top Languages" />
+  </a>
+  <a href="https://github.com/DineshMoorthy007">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshMoorthy007&theme=tokyo-night&hide_border=true" height="195" alt="Dinesh's Activity Graph" />
+  </a>
 </p>
 
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DineshMoorthy007/DineshMoorthy007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DineshMoorthy007&theme=tokyonight&no-frame=true&margin-w=15" alt="Dinesh's GitHub Trophies" />
 </p>
+
+<details>
+  <summary>🗺️ Click to view 3D Contribution Calendar & Snake Game</summary>
+  <br>
+  
+  <p align="center">
+    <strong>3D Contribution Visualizer</strong><br>
+    <img src="https://raw.githubusercontent.com/DineshMoorthy007/DineshMoorthy007/main/profile-3d-contrib/profile-night-rainbow.svg" width="800" alt="3D Contribution Graph" />
+  </p>
+  
+  <br>
+  
+  <p align="center">
+    <strong>Contribution Snake Animation</strong><br>
+    <img src="https://raw.githubusercontent.com/DineshMoorthy007/DineshMoorthy007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  </p>
+</details>
 
 ---
 
@@ -185,13 +162,15 @@
 
 ---
 
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
-
-<p align="center">
-  I am always open to discussing new opportunities, open-source collaborations, or backend system architecture challenges. Feel free to reach out to me via any of the platforms below:
-</p>
-
-<p align="center">
+<div align="center">
+  <h2>🤝 Let's Connect & Collaborate</h2>
+  
+  <p>
+    I am always open to discussing new opportunities, open-source collaborations, or backend system architecture challenges. Feel free to reach out to me via any of the platforms below:
+  </p>
+  
+  <br>
+  
   <a href="https://www.linkedin.com/in/dinesh-moorthy-s-r">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
@@ -203,7 +182,7 @@
   <a href="https://leetcode.com/u/dinesh_moorthy/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:0f172a" alt="Dinesh Moorthy S R Footer" />
