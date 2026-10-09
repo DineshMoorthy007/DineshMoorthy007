@@ -3,7 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&center=true&width=650&color=38BDF8&lines=Software+Developer;Full+Stack+Engineer;AI+Application+Developer;Backend+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&center=true&width=650&color=38BDF8&lines=Software+Developer;Full+Stack+Engineer;AI+Application+Developer;Quantum+Computing+Explorer;Backend+Developer;Problem+Solver" />
+</p>
+
+<p align="center">
+  <a href="https://dineshmoorthy007.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-dineshmoorthy007.github.io-00ADB5?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -22,7 +28,7 @@
       ✦ Pursuing Computer Science and Engineering  
       ✦ Backend & System Architecture Focus  
       ✦ Algorithmic Problem Solver (100 Days LeetCode Completed)  
-      ✦ AI & IoT telemetry developer
+      ✦ AI, Quantum Computing & IoT Developer
     </font>
   </p>
 </div>
@@ -80,6 +86,13 @@
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
+<h3><font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8">Quantum Computing</font></h3>
+<p>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit_Aer-1192E8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum_Simulation-4B0082?style=for-the-badge" />
+</p>
+
 <h3><font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8">Cloud & DevOps</font></h3>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -111,7 +124,25 @@
 
 <h2><font face="Segoe UI, -apple-system, sans-serif" size="5" color="#38bdf8">Featured Engineering Projects</font></h2>
 
-<h3>🤖 <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8"><a href="https://github.com/DineshMoorthy007/AI-Enhanced-Documentation-Generator">AI-Enhanced Documentation Generator</a></font></h3>
+<h3><img src="https://api.iconify.design/lucide:atom.svg?color=%23818cf8" width="20" height="20" /> <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8"><a href="https://github.com/DineshMoorthy007/BB84-quantum-key-distribution">BB84 Quantum Key Distribution Simulator</a></font></h3>
+<blockquote>
+  <font face="Segoe UI, -apple-system, sans-serif" size="3.5" color="#e2e8f0">
+    Research-grade quantum cryptography simulation and experimental benchmarking platform modeling the BB84 protocol.
+  </font>
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit_Aer-1192E8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum_Cryptography-8A2BE2?style=flat-square" />
+  <br>
+  <font face="Segoe UI, -apple-system, sans-serif" size="3.2" color="#94a3b8">
+    ✦ Simulates single-photon quantum state preparation and transmission across noisy quantum channels.  
+    ✦ Models intercept-resend eavesdropping attacks (Eve), basis reconciliation, and QBER error estimation.  
+    ✦ Implements information reconciliation, privacy amplification (Toeplitz hashing), and security evaluation.
+  </font>
+</blockquote>
+
+<h3><img src="https://api.iconify.design/lucide:bot.svg?color=%23818cf8" width="20" height="20" /> <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8"><a href="https://github.com/DineshMoorthy007/AI-Enhanced-Documentation-Generator">AI-Enhanced Documentation Generator</a></font></h3>
 <blockquote>
   <font face="Segoe UI, -apple-system, sans-serif" size="3.5" color="#e2e8f0">
     AI-powered developer tool that analyzes codebases and generates structured documentation automatically.
@@ -129,7 +160,7 @@
   </font>
 </blockquote>
 
-<h3>⚡ <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8"><a href="https://github.com/DineshMoorthy007/quick-note-polyglot">Quick Note Polyglot Backend</a></font></h3>
+<h3><img src="https://api.iconify.design/lucide:server.svg?color=%23818cf8" width="20" height="20" /> <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8"><a href="https://github.com/DineshMoorthy007/quick-note-polyglot">Quick Note Polyglot Backend</a></font></h3>
 <blockquote>
   <font face="Segoe UI, -apple-system, sans-serif" size="3.5" color="#e2e8f0">
     High-performance polyglot backend showing scalable API design across multiple technology stacks.
@@ -147,7 +178,7 @@
   </font>
 </blockquote>
 
-<h3>🎓 <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8"><a href="https://github.com/DineshMoorthy007/AcadIntel">AcadIntel</a></font></h3>
+<h3><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23818cf8" width="20" height="20" /> <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8"><a href="https://github.com/DineshMoorthy007/AcadIntel">AcadIntel</a></font></h3>
 <blockquote>
   <font face="Segoe UI, -apple-system, sans-serif" size="3.5" color="#e2e8f0">
     Intelligent academic productivity and workspace platform for modern student workflows.
@@ -165,7 +196,7 @@
   </font>
 </blockquote>
 
-<h3>🏥 <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8">IoT & Healthcare Systems</font></h3>
+<h3><img src="https://api.iconify.design/lucide:activity.svg?color=%23818cf8" width="20" height="20" /> <font face="Segoe UI, -apple-system, sans-serif" size="4.5" color="#818cf8">IoT & Healthcare Systems</font></h3>
 <blockquote>
   <font face="Segoe UI, -apple-system, sans-serif" size="3.5" color="#e2e8f0">
     Smart health and environmental logging systems utilizing microcontrollers and cloud sync.
@@ -230,6 +261,10 @@
   
   <br>
   
+  <a href="https://dineshmoorthy007.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dinesh-moorthy-s-r">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
